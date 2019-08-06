@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hello, 
 
 I am trying to work at multiple projects and getting mixed up and forgetful.
