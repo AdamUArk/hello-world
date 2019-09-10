@@ -10,4 +10,4 @@ The overall understanding of how this works is not quite settled into my brain.
 
 onlywei.github.com.io/explain-git-with-d3
 
-
+add some text about explaining git hug to Rob.
